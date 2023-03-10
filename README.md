@@ -1,6 +1,6 @@
 # THE TRIBE PORTFOLIO
 *****
-### Author : Anita Kahenya March 9th 2023
+### Author : MELCHIZEDEK MARANGA March 10th 2023
 ****
 ## Project Description
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -56,8 +56,8 @@ Or you can access the web application directly via this [LINK.](link.com/)
 5. JavaScript
 *****
 ## Contact Information
-* Email : anitakahenya1@gmail.com
+* Email : melchizedek.maranga@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) 2023 Anita Kahenya
+Copyright (c) 2023 Melchizedek Maranga
