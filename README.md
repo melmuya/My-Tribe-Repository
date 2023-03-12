@@ -36,7 +36,7 @@ This is my website where I share a little bit about, well me. My skills, educati
 > $ run live server
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+Or you can access the web application directly via this [https://melmuya.github.io/The-Tribe-Portfolio/]
 *****
 ## Dependencies
 - Google fonts
