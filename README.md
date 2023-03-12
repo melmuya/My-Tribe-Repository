@@ -3,20 +3,18 @@
 ### Author : MELCHIZEDEK MARANGA March 10th 2023
 ****
 ## Project Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is my website where I share a little bit about, well me. My skills, educational background, hobbies, and much more. 
 ******
 
 ## SCREENSHOTS
-- link 1
-- link 2
+![Screenshot (2)](https://user-images.githubusercontent.com/50429540/224569229-8726d69f-fd31-45ff-b0b1-79f4295f5f78.png)
 
+![Screenshot (3)](https://user-images.githubusercontent.com/50429540/224569377-8417af53-211f-41ae-b0be-96f036824bc2.png)
 
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
+* HTML
 * [Framework](Framework URL)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
@@ -34,26 +32,21 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->  $ pip install -r requirements.txt
-To install all requirements
-> $ python3 manage.py runserver
-Then run server with the above command
+>  Clone repository
+> $ run live server
 *****
 ## Live Link
 Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
+- Google fonts
+- Font Awesome icons
+- Particles js
 *****
 ## Technologies Used
 1. HTML
-2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+2. CSS
+3. JavaScript
 *****
 ## Contact Information
 * Email : melchizedek.maranga@gmail.com
